@@ -1,0 +1,2 @@
+This is the character device driver, this device act as a file.
+you can read and write after you have opened this device.
